@@ -1,0 +1,50 @@
+Algorithme
+Variables
+Fonction
+Boucle
+Condition
+Compilation
+Débogage
+Syntaxe
+API (Interface de Programmation d'Application)
+Framework
+Bibliothèque
+Développement
+Éditeur
+IDE 
+Code source
+Langage
+Script
+Exécution
+Serveur
+Client
+Base de données
+SQL
+Versionnage
+Git
+Repository (Dépôt)
+Frontend
+Backend
+Responsive
+CSS
+HTML
+JavaScript
+Python
+Ruby
+C++
+Debugger
+Tests unitaires
+Performance
+Securite
+Environnement
+Deploiement
+Documentation
+Gestion de projet
+Intégration continue
+DevOps
+Taches
+Collaboration
+Frameworks web
+Référentiel
+Analyse
+Maintenance
