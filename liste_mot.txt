@@ -22,7 +22,7 @@ Base de données
 SQL
 Versionnage
 Git
-Repository (Dépôt)
+Repository
 Frontend
 Backend
 Responsive
