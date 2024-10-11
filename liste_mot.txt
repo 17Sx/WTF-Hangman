@@ -6,7 +6,7 @@ Condition
 Compilation
 Débogage
 Syntaxe
-API (Interface de Programmation d'Application)
+API
 Framework
 Bibliothèque
 Développement
