@@ -32,3 +32,7 @@ This repository contains two simple Python-based games:
 **Usage**
 - Hangman: Play by guessing letters.
 - Film Guessing Game: Match images with movie names from the provided list in liste_films.txt.
+
+---
+
+Made with ❤️ by 17Sx
